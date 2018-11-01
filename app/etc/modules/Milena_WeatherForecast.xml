@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Milena_WeatherForecast>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Milena_WeatherForecast>
+    </modules>
+</config>
